@@ -5,7 +5,6 @@ Clean and prepare the Customer Personality Analysis dataset (handle missing valu
 - `marketing_campaign.csv` → Raw dataset
 - `customer_personality_cleaned.csv` → Cleaned dataset
 - `clean_customer_data.py` → Python code used for cleaning
-- `screenshots/` → Optional screenshots showing results
 
 # Steps Performed
 1. Checked and filled missing values in `Income` with median.  

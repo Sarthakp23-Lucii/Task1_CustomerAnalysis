@@ -10,7 +10,7 @@ Clean and prepare the Customer Personality Analysis dataset (handle missing valu
 1. Checked and filled missing values in `Income` with median.  
 2. Removed duplicate rows.  
 3. Standardized `Marital_Status` values (grouped rare categories into "Other").  
-4. Converted `Dt_Customer` to `dd-mm-yyyy` format.  'ff' 
+4. Converted `Dt_Customer` to `dd-mm-yyyy` format.  
 5. Renamed columns to lowercase with underscores.  
 6. Corrected data types (year_birth → int, income → float, dt_customer → datetime).  
 7. Sorted dataset in ascending order by Income.  

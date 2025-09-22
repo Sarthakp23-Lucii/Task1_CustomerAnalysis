@@ -16,5 +16,6 @@ Clean and prepare the Customer Personality Analysis dataset (handle missing valu
 7. Sorted dataset in ascending order by Income.  
 
 # Tools Used
-- Python 3 (Pandas)
+- Python 3 (IDLE)
+- Pandas
 - Excel 
